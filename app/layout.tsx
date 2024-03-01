@@ -1,5 +1,7 @@
 import * as React from 'react';
 
+import '~/app/styles.css';
+
 interface RootLayoutProps {
   children: React.ReactNode;
 }
